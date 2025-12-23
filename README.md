@@ -4,7 +4,7 @@ I’m a Computer Science undergraduate at IIIT Bhopal with a strong interest in 
 
 - Focused on CS fundamentals (Data Structures & Algorithms)
 - Building cross-platform applications using Flutter and Firebase
-- Experienced with REST APIs, backend integration, and basic system design
+- Experienced with REST APIs, backend integration, and application architecture
 - Competitive Programming Executive at CODAME, IIIT Bhopal
 - National-level hackathon winner (HACKSAGON’25)
 
@@ -16,6 +16,8 @@ I’m a Computer Science undergraduate at IIIT Bhopal with a strong interest in 
 
 ### Featured Projects
 - **Sanjeevika** – Smart healthcare app with AI assistant and SOS features  
+  👉 https://github.com/your-username/sanjeevika  
 - **Suvidha** – Civic issue reporting platform with maps, RBAC, and admin dashboard  
+  👉 https://github.com/your-username/suvidha  
 
 Feel free to connect with me on LinkedIn.
